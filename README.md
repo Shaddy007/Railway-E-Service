@@ -1,7 +1,7 @@
-# Railway E-Service Frontend
+# Railway E-Service
 
 ## Overview
-This React-based frontend application serves as the user interface for the Railway E-Service system. It provides a comprehensive platform for users to search, book, and manage train tickets, while also offering administrative capabilities for train scheduling and system management.
+This React-based frontend application serves as the user interface for the Railway E-Service system. It provides a seamless platform for users to search, book, and manage train tickets, while offering administrative functionalities for train scheduling and system management.
 
 ## Features
 
@@ -40,7 +40,7 @@ The application is organized into the following main directories:
 ```
 
 ```
-railways3.0/
+Railway E-Service/
 │
 ├── public/
 │   ├── index.html
